@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LV101+ jp</string>
+    <string name="app_description">Welcome to LV101+, a modern, highly optimized web application designed for viewing Electronic Program Guides (EPG) alongside live IPTV streams.</string>
+    <string name="developer">lv101</string>
+    <string name="website">file:///android_asset/lv101+.html</string>
+</resources>
